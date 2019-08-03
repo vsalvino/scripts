@@ -3,6 +3,10 @@ scripts
 
 My collection of random utility scripts, for safe keeping.
 
+azure-codecov.ps1
+-----------------
+Compares code coverage on Azure DevOps Pipelines between latest run of master
+branch and specified BuildId.
 
 recurse-download.ps1
 --------------------
